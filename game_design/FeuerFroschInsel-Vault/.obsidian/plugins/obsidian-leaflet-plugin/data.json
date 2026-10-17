@@ -75,7 +75,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": "false",
-    "defaultZoom": 5,
+    "defaultZoom": 7,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],

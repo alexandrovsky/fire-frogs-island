@@ -3,7 +3,7 @@ type:
   - Ort
   - Beschreibung
 aliases:
-modified: 2026-10-17T18:36:50+02:00
+modified: 2026-10-17T18:40:32+02:00
 Ort:
 ---
 ## Orte
@@ -11,8 +11,3 @@ Ort:
 LIST WHERE contains(type, "Ort") AND contains(type, "Beschreibung") AND contains(Ort, "FeuerFroschInsel")
 ```
 
-```leaflet
-id: ersteMap
-image: FeuerfroschInsel+Lager_03.10.26.jpg
-defaultZoom: 7
-```
