@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5290beaf14797988",
+        "id": "2d78dd0a7d958d36",
         "type": "tabs",
         "children": [
           {
-            "id": "c6706d464886b5c0",
+            "id": "38a851c7765e4a45",
             "type": "leaf",
             "state": {
               "type": "obsidian-leaflet-map-view",
@@ -16,21 +16,8 @@
               "icon": "lucide-file",
               "title": "Leaflet Map"
             }
-          },
-          {
-            "id": "a5de83d09c838e6e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "FeuerfroschInsel+Lager_03.10.26"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,9 +196,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8d75eccd1459c4db",
+  "active": "38a851c7765e4a45",
   "lastOpenFiles": [
     "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg",
+    "bla.md",
     "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
     "Unbenannt.canvas",
     "Orte/Feuer Frosch Insel/Dorf/Dorf.md",
@@ -228,7 +216,6 @@
     "fire-frogs-island/README.md",
     "fire-frogs-island/LICENSE",
     "fire-frogs-island",
-    "bla.md",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Board-export.pptx",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Board-export.pdf",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Document.docx",

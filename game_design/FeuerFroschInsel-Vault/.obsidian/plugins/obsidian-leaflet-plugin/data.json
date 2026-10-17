@@ -56,7 +56,24 @@
     },
     "isImage": false
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "Stadt",
+      "iconName": "home",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
@@ -86,7 +103,7 @@
     "height": "500px",
     "image": "FeuerfroschInsel+Lager_03.10.26.jpg",
     "imageOverlay": [],
-    "isMapView": false,
+    "isMapView": true,
     "layers": [
       "FeuerfroschInsel+Lager_03.10.26.jpg"
     ],
