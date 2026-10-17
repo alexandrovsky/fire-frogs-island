@@ -11,26 +11,22 @@
             "id": "79fe78309b5fcc7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
-                "mode": "source",
-                "source": false
+                "file": "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Feuer Frosch Insel"
+              "icon": "lucide-image",
+              "title": "FeuerfroschInsel+Lager_03.10.26"
             }
           },
           {
             "id": "bd7650bae915903a",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "FeuerfroschInsel+Lager_03.10.26"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
             }
           },
           {
@@ -44,19 +40,21 @@
             }
           },
           {
-            "id": "312a4a3d3d49f43f",
+            "id": "e081d3b045adb508",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg"
+                "file": "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "FeuerfroschInsel+Lager_03.10.26"
+              "icon": "lucide-file",
+              "title": "Feuer Frosch Insel"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,11 +233,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "0851ca7c8da159b5",
+  "active": "e081d3b045adb508",
   "lastOpenFiles": [
+    "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg",
+    "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
     "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg",
-    "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
     "Orte/Feuer Frosch Insel/Friedhof.md",
     "Sonstiges/Stroy draft.md",
     "NPCs/Darth Maul.md",
