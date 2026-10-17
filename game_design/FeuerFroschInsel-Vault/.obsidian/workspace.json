@@ -31,15 +31,30 @@
             "id": "e081d3b045adb508",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg"
+                "file": "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "FeuerfroschInsel+Lager_03.10.26"
+              "icon": "lucide-file",
+              "title": "Feuer Frosch Insel"
+            }
+          },
+          {
+            "id": "c5309948e28d7196",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Bilder/Luria Karte.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Luria Karte"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.26953125
+    "width": 301.26953125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,10 +234,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "bd7650bae915903a",
+  "active": "c5309948e28d7196",
   "lastOpenFiles": [
-    "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg",
     "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
+    "Bilder/Luria Karte.pdf",
+    "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
     "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg",
     "Orte/Feuer Frosch Insel/Friedhof.md",
@@ -249,7 +266,6 @@
     "Hafen.md",
     "Orte/Feuer Frosch Insel/Dorf/Dorf.md",
     "Sonstiges/Stroy draft.pdf",
-    "Sonstiges/Technische Details.pdf",
     "Sonstiges/Obsidian tour.md",
     "Orte/Feuer Frosch Insel/Sklavenlager/Sklavenlager.md",
     "Sonstiges/Technische Details.md",
