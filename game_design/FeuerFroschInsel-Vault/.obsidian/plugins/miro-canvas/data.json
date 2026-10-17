@@ -1,0 +1,137 @@
+{
+  "zoomStep": 1.2,
+  "cardCornerRadius": 0,
+  "shapeRadiusControlEnabled": true,
+  "shapeRadiusControlMinZoomPercent": 200,
+  "shapeCornerRadius": 16,
+  "allowedCanvasSnippets": [],
+  "minZoom": 0.0625,
+  "maxZoom": 16,
+  "zoomToCursor": true,
+  "invertWheelZoom": false,
+  "wheelZoomModifier": "ctrl",
+  "panStep": 64,
+  "fastPanMultiplier": 4,
+  "connectorMagnet": 24,
+  "connectorSnap": 16,
+  "connectorAttachNodes": true,
+  "connectorAllowFree": true,
+  "connectorAttachConnectors": false,
+  "connectorLabelPosition": 0.5,
+  "minimapVisible": true,
+  "selectionToolbarEnabled": true,
+  "boardFindKey": true,
+  "contentTextThreshold": 0,
+  "contentFileThreshold": 0,
+  "contentLinkThreshold": 0,
+  "contentPluginThreshold": 0,
+  "highlightConnectedLines": true,
+  "boardKnowledge": true,
+  "automaticPropertyEdges": false,
+  "relationProperties": [],
+  "customStyles": [],
+  "holdStraightLine": true,
+  "penPressure": true,
+  "fingerDrawing": false,
+  "lassoBinding": "alt+left",
+  "panBinding": "none",
+  "lineBinding": "right",
+  "layouts": {
+    "desktop": {
+      "toolbarItems": [
+        "select",
+        "lasso",
+        "text",
+        "card",
+        "sticky",
+        "shape",
+        "pen",
+        "connector",
+        "comment",
+        "frame",
+        "note",
+        "media"
+      ],
+      "panelLayout": {},
+      "hiddenPanelButtons": []
+    },
+    "tablet": {
+      "toolbarItems": [
+        "select",
+        "lasso",
+        "text",
+        "card",
+        "sticky",
+        "shape",
+        "pen",
+        "connector",
+        "comment",
+        "frame",
+        "note",
+        "media"
+      ],
+      "panelLayout": {},
+      "hiddenPanelButtons": []
+    },
+    "phone": {
+      "toolbarItems": [
+        "select",
+        "lasso",
+        "text",
+        "card",
+        "sticky",
+        "shape",
+        "pen",
+        "connector",
+        "comment",
+        "frame",
+        "note",
+        "media"
+      ],
+      "panelLayout": {},
+      "hiddenPanelButtons": []
+    }
+  },
+  "toolbarItems": [
+    "select",
+    "lasso",
+    "text",
+    "card",
+    "sticky",
+    "shape",
+    "pen",
+    "connector",
+    "comment",
+    "frame",
+    "note",
+    "media"
+  ],
+  "panelLayout": {},
+  "hiddenPanelButtons": [],
+  "developerDiagnostics": false,
+  "commentAuthor": "",
+  "commentAuthorColors": {},
+  "importQuestionAnswered": true,
+  "checkUpdatesAutomatically": true,
+  "lastUpdateCheck": 1792245079432,
+  "fontPacks": [],
+  "customFonts": [],
+  "fontList": [
+    {
+      "family": "Inter",
+      "shown": true
+    },
+    {
+      "family": "Source Code Pro",
+      "shown": true
+    },
+    {
+      "family": "sans-serif",
+      "shown": true
+    },
+    {
+      "family": "serif",
+      "shown": true
+    }
+  ]
+}

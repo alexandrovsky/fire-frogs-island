@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "23a1161439dcedf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fd1e5c3e8d7b2ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b427099299dba20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orte/Feuer Frosch Insel/Friedhof.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Friedhof"
+            }
+          },
+          {
+            "id": "e59e8c2e469bd4e5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "FeuerfroschInsel+Lager_03.10.26"
+            }
+          },
+          {
+            "id": "671a7594e84a04f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treffen 17.10.26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Treffen 17.10.26"
+            }
+          },
+          {
+            "id": "a58a818b54422da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feuer Frosch Insel"
+            }
+          },
+          {
+            "id": "a5f8b9a17e51d5fb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Unbenannt.canvas",
+                "viewState": {
+                  "x": 30.617373925432595,
+                  "y": -234.0079172342039,
+                  "zoom": 0.2645874023437501
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Unbenannt"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7273e71c057f4927",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b6451ec825aff22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d75eccd1459c4db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "6635c00a40a382ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "9e6e3d44992a289a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245
+  },
+  "right": {
+    "id": "d2b414e7c581ba49",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e63e3fbfa0cfb59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ba1ae527483d2d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unbenannt.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "f1f407a455087115",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stroy draft.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "54aa9e479e5a1bbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "669a8f871910629d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "352bfc760036ba72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stroy draft.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e59e8c2e469bd4e5",
+  "lastOpenFiles": [
+    "templater/NPC.tp.md",
+    "Orte/Feuer Frosch Insel/Friedhof.md",
+    "Unbenannt.canvas",
+    "fire-frogs-island/README.md",
+    "fire-frogs-island/LICENSE",
+    "fire-frogs-island",
+    "Miro Canvas - Start here.canvas",
+    "bla.md",
+    "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
+    "Miro Canvas - Getting started examples/Board-export.pptx",
+    "Miro Canvas - Getting started examples/Board-export.pdf",
+    "Miro Canvas - Getting started examples/Document.docx",
+    "Miro Canvas - Getting started examples/Document.pdf",
+    "Miro Canvas - Getting started examples/Picture.png",
+    "Miro Canvas - Getting started examples/Small board.canvas",
+    "Miro Canvas - Getting started examples/Note.md",
+    "Miro Canvas - Getting started examples",
+    "Treffen 17.10.26.md",
+    "Unbenannt.md",
+    "templater/Ort.tp.md",
+    "Sonstiges/Stroy draft.md",
+    "Hafen.md",
+    "Orte/Feuer Frosch Insel/Dorf/Dorf.md",
+    "Sonstiges/Stroy draft.pdf",
+    "Sonstiges/Technische Details.pdf",
+    "Sonstiges/Obsidian tour.md",
+    "Sonstiges",
+    "Orte/Feuer Frosch Insel/Sklavenlager/Sklavenlager.md",
+    "Sonstiges/Technische Details.md",
+    "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg",
+    "Willkommen.md"
+  ]
+}
