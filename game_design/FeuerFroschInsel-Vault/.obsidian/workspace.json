@@ -8,48 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b427099299dba20",
+            "id": "79fe78309b5fcc7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orte/Feuer Frosch Insel/Friedhof.md",
+                "file": "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friedhof"
+              "title": "Feuer Frosch Insel"
             }
           },
           {
-            "id": "a58a818b54422da3",
+            "id": "bd7650bae915903a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
-                "viewState": {
-                  "x": 641.8220936588122,
-                  "y": 933.8609843647444,
-                  "zoom": -0.8856266434285656
-                }
+                "file": "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Miro Canvas - Start here"
+              "icon": "lucide-image",
+              "title": "FeuerfroschInsel+Lager_03.10.26"
             }
           },
           {
             "id": "0851ca7c8da159b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sonstiges/Stroy draft.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Stroy draft"
+              "title": "Leaflet Map"
+            }
+          },
+          {
+            "id": "312a4a3d3d49f43f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "FeuerfroschInsel+Lager_03.10.26"
             }
           }
         ],
@@ -131,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sonstiges/Stroy draft.md",
+                "file": "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sonstiges/Stroy draft.md",
+                "file": "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,21 +231,22 @@
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "0851ca7c8da159b5",
   "lastOpenFiles": [
+    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
+    "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg",
+    "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
+    "Orte/Feuer Frosch Insel/Friedhof.md",
+    "Sonstiges/Stroy draft.md",
     "NPCs/Darth Maul.md",
     "Miro Canvas - Getting started examples/Unbenannt.md",
-    "Sonstiges/Stroy draft.md",
-    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
     "Unbenannt.md",
     "Hilfe Wie funktioniert Obsidian",
     "Unbenannt.canvas",
-    "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
-    "Orte/Feuer Frosch Insel/Friedhof.md",
-    "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg",
     "templater/NPC.tp.md",
     "fire-frogs-island/README.md",
     "fire-frogs-island/LICENSE",

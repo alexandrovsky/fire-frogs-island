@@ -5,5 +5,6 @@
   "templater-obsidian",
   "frontmatter-modified-date",
   "miro-canvas",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-leaflet-plugin"
 ]
