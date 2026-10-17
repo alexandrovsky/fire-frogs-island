@@ -3,7 +3,7 @@ type:
   - Ort
   - Beschreibung
 aliases:
-modified: 2026-10-17T15:14:37+02:00
+modified: 2026-10-17T17:29:28+02:00
 Ort:
 ---
 ## Orte
