@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5005c837a704a41",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
-            }
-          },
-          {
             "id": "0b78f3886c339f08",
             "type": "leaf",
             "state": {
@@ -31,8 +21,7 @@
               "title": "Treffen 17.10.26"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,12 +203,13 @@
   },
   "active": "0b78f3886c339f08",
   "lastOpenFiles": [
+    "Unbenannt.canvas",
+    "Treffen 17.10.26.md",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
     "Orte/Feuer Frosch Insel/Dorf/Dorf.md",
     "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
     "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg",
     "bla.md",
-    "Unbenannt.canvas",
     "Bilder/Luria Karte.pdf",
     "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg",
     "Orte/Feuer Frosch Insel/Friedhof.md",
@@ -240,7 +230,6 @@
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Small board.canvas",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Note.md",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples",
-    "Treffen 17.10.26.md",
     "templater/Ort.tp.md",
     "Hafen.md",
     "Sonstiges/Stroy draft.pdf",
