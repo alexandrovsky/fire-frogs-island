@@ -25,14 +25,17 @@
             "id": "a58a818b54422da3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "NPCs/Darth Maul.md",
-                "mode": "source",
-                "source": false
+                "file": "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
+                "viewState": {
+                  "x": 641.8220936588122,
+                  "y": 933.8609843647444,
+                  "zoom": -0.8856266434285656
+                }
               },
-              "icon": "lucide-file",
-              "title": "Darth Maul"
+              "icon": "lucide-layout-dashboard",
+              "title": "Miro Canvas - Start here"
             }
           },
           {
@@ -128,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Darth Maul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Darth Maul.md",
+                "file": "Unbenannt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,11 +230,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a58a818b54422da3",
+  "active": "8d75eccd1459c4db",
   "lastOpenFiles": [
-    "Sonstiges/Stroy draft.md",
-    "NPCs/Darth Maul.md",
+    "Hilfe Wie funktioniert Obsidian",
+    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
+    "Unbenannt.md",
     "Unbenannt.canvas",
+    "NPCs/Darth Maul.md",
+    "Sonstiges/Stroy draft.md",
     "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
     "Orte/Feuer Frosch Insel/Friedhof.md",
     "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg",
@@ -240,7 +245,6 @@
     "fire-frogs-island/README.md",
     "fire-frogs-island/LICENSE",
     "fire-frogs-island",
-    "Miro Canvas - Start here.canvas",
     "bla.md",
     "Miro Canvas - Getting started examples/Board-export.pptx",
     "Miro Canvas - Getting started examples/Board-export.pdf",
@@ -251,7 +255,6 @@
     "Miro Canvas - Getting started examples/Note.md",
     "Miro Canvas - Getting started examples",
     "Treffen 17.10.26.md",
-    "Unbenannt.md",
     "templater/Ort.tp.md",
     "Hafen.md",
     "Orte/Feuer Frosch Insel/Dorf/Dorf.md",
