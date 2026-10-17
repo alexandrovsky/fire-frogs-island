@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fd1e5c3e8d7b2ac",
+        "id": "2c8f8afd9907596b",
         "type": "tabs",
         "children": [
           {
-            "id": "26b345a5fdeb6255",
+            "id": "f00d199a85fba246",
             "type": "leaf",
             "state": {
               "type": "obsidian-leaflet-map-view",
@@ -196,7 +196,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "26b345a5fdeb6255",
+  "active": "f00d199a85fba246",
   "lastOpenFiles": [
     "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
     "Unbenannt.canvas",
