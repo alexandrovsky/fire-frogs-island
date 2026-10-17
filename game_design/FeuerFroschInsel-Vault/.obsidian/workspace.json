@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c8f8afd9907596b",
+        "id": "5290beaf14797988",
         "type": "tabs",
         "children": [
           {
-            "id": "f00d199a85fba246",
+            "id": "c6706d464886b5c0",
             "type": "leaf",
             "state": {
               "type": "obsidian-leaflet-map-view",
@@ -16,8 +16,21 @@
               "icon": "lucide-file",
               "title": "Leaflet Map"
             }
+          },
+          {
+            "id": "a5de83d09c838e6e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "FeuerfroschInsel+Lager_03.10.26"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +209,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f00d199a85fba246",
+  "active": "a5de83d09c838e6e",
   "lastOpenFiles": [
     "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
     "Unbenannt.canvas",
