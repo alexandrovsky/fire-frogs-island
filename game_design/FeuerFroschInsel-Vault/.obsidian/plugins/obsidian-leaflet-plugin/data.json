@@ -1,5 +1,34 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "ersteMap",
+      "lastAccessed": 1792254920153,
+      "markers": [
+        {
+          "id": "ID_e9ba48bbe93b",
+          "type": "default",
+          "loc": [
+            -1.961181640625,
+            1.4644775390625
+          ],
+          "link": "Dorf",
+          "layer": "FeuerfroschInsel%2BLager_03.10.26.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Dorf",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
