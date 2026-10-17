@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "ersteMap",
-      "lastAccessed": 1792254920153,
+      "lastAccessed": 1792255018767,
       "markers": [
         {
           "id": "ID_e9ba48bbe93b",
@@ -17,6 +17,22 @@
           "command": false,
           "percent": null,
           "description": "Dorf",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e94b99bbf9fb",
+          "type": "default",
+          "loc": [
+            -1.919097900390625,
+            1.55712890625
+          ],
+          "layer": "FeuerfroschInsel%2BLager_03.10.26.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

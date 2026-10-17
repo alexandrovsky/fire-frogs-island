@@ -18,17 +18,7 @@
             }
           },
           {
-            "id": "e081d3b045adb508",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
-            }
-          },
-          {
-            "id": "9ada3e954b7d8160",
+            "id": "031ef472013fc41d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,8 +31,7 @@
               "title": "Feuer Frosch Insel"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,10 +211,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9ada3e954b7d8160",
+  "active": "bd7650bae915903a",
   "lastOpenFiles": [
-    "Orte/Feuer Frosch Insel/Dorf/Dorf.md",
+    "Unbenannt.canvas",
     "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
+    "Orte/Feuer Frosch Insel/Dorf/Dorf.md",
     "Bilder/Luria Karte.pdf",
     "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
@@ -236,7 +226,6 @@
     "Miro Canvas - Getting started examples/Unbenannt.md",
     "Unbenannt.md",
     "Hilfe Wie funktioniert Obsidian",
-    "Unbenannt.canvas",
     "templater/NPC.tp.md",
     "fire-frogs-island/README.md",
     "fire-frogs-island/LICENSE",
