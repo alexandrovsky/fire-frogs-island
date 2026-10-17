@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79fe78309b5fcc7a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "FeuerfroschInsel+Lager_03.10.26"
-            }
-          },
-          {
             "id": "bd7650bae915903a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "obsidian-leaflet-map-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Leaflet Map"
             }
           },
           {
@@ -43,18 +31,15 @@
             "id": "e081d3b045adb508",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
-                "mode": "source",
-                "source": false
+                "file": "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Feuer Frosch Insel"
+              "icon": "lucide-image",
+              "title": "FeuerfroschInsel+Lager_03.10.26"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,7 +218,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e081d3b045adb508",
+  "active": "bd7650bae915903a",
   "lastOpenFiles": [
     "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg",
     "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
