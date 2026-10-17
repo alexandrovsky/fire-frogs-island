@@ -25,31 +25,14 @@
             "id": "a58a818b54422da3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "NPCs/Darth Maul.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Working Tree)"
-            }
-          },
-          {
-            "id": "a5f8b9a17e51d5fb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Unbenannt.canvas",
-                "viewState": {
-                  "x": 30.617373925432595,
-                  "y": -234.0079172342039,
-                  "zoom": 0.2645874023437501
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unbenannt"
+              "icon": "lucide-file",
+              "title": "Darth Maul"
             }
           }
         ],
@@ -131,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPCs/Darth Maul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "NPCs/Darth Maul.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -229,14 +214,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b9604c8a9f2c2db",
+  "active": "a58a818b54422da3",
   "lastOpenFiles": [
+    "Unbenannt.canvas",
     "NPCs/Darth Maul.md",
     "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
     "Orte/Feuer Frosch Insel/Friedhof.md",
     "Bilder/FeuerfroschInsel+Lager_03.10.26.jpeg",
     "templater/NPC.tp.md",
-    "Unbenannt.canvas",
     "fire-frogs-island/README.md",
     "fire-frogs-island/LICENSE",
     "fire-frogs-island",
