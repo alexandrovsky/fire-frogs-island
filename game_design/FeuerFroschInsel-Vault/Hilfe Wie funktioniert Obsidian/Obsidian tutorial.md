@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-22T11:37:55+02:00
+modified: 2026-10-22T11:41:08+02:00
 ---
 ## Wichtige hotkeys
 - Command Palette: cmd+p
@@ -10,4 +10,4 @@ modified: 2026-10-22T11:37:55+02:00
 - switch Tabs: ctrl+tab
 
 ## Formatierung
-- Text wird in Markdown geschrieben
+- Text wird in [Markdown](https://markdownformatting.com/cheat-sheet) geschrieben
