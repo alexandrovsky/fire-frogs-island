@@ -11,17 +11,14 @@
             "id": "0b78f3886c339f08",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
-                "viewState": {
-                  "x": 1077.7262851703908,
-                  "y": 1757.4701245247231,
-                  "zoom": -1.1963971862488623
-                }
+                "file": "Hilfe Wie funktioniert Obsidian/Obsidian tutorial.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Miro Canvas - Start here"
+              "icon": "lucide-file",
+              "title": "Obsidian tutorial"
             }
           }
         ]
@@ -206,12 +203,13 @@
   },
   "active": "0b78f3886c339f08",
   "lastOpenFiles": [
+    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
+    "Hilfe Wie funktioniert Obsidian/Obsidian tutorial.md",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Small board.canvas",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Picture.png",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Note.md",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Document.pdf",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Board-export.pdf",
-    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
     "Treffen 17.10.26.md",
     "Unbenannt.canvas",
     "Orte/Feuer Frosch Insel/Dorf/Dorf.md",
