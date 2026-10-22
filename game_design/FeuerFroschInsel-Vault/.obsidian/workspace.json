@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.26953125,
-    "collapsed": true
+    "width": 301.26953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +200,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "0b78f3886c339f08",
+  "active": "2b9604c8a9f2c2db",
   "lastOpenFiles": [
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
     "Hilfe Wie funktioniert Obsidian/Obsidian tutorial.md",
