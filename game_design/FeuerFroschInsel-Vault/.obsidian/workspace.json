@@ -11,14 +11,17 @@
             "id": "0b78f3886c339f08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Treffen 17.10.26.md",
-                "mode": "source",
-                "source": false
+                "file": "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
+                "viewState": {
+                  "x": 1077.7262851703908,
+                  "y": 1757.4701245247231,
+                  "zoom": -1.1963971862488623
+                }
               },
-              "icon": "lucide-file",
-              "title": "Treffen 17.10.26"
+              "icon": "lucide-layout-dashboard",
+              "title": "Miro Canvas - Start here"
             }
           }
         ]
@@ -203,9 +206,14 @@
   },
   "active": "0b78f3886c339f08",
   "lastOpenFiles": [
-    "Unbenannt.canvas",
-    "Treffen 17.10.26.md",
+    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Small board.canvas",
+    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Picture.png",
+    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Note.md",
+    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Document.pdf",
+    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Board-export.pdf",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Start here.canvas",
+    "Treffen 17.10.26.md",
+    "Unbenannt.canvas",
     "Orte/Feuer Frosch Insel/Dorf/Dorf.md",
     "Orte/Feuer Frosch Insel/Feuer Frosch Insel.md",
     "Bilder/FeuerfroschInsel+Lager_03.10.26.jpg",
@@ -223,12 +231,7 @@
     "fire-frogs-island/LICENSE",
     "fire-frogs-island",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Board-export.pptx",
-    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Board-export.pdf",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Document.docx",
-    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Document.pdf",
-    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Picture.png",
-    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Small board.canvas",
-    "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples/Note.md",
     "Hilfe Wie funktioniert Obsidian/Miro Canvas - Getting started examples",
     "templater/Ort.tp.md",
     "Hafen.md",

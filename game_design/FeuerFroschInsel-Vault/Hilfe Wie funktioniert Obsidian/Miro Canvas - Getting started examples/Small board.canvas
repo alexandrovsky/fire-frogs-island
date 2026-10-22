@@ -1,31 +1,9 @@
 {
-	"nodes": [
-		{
-			"id": "faa47f14dd9e7357",
-			"type": "text",
-			"text": "A small canvas",
-			"x": 0,
-			"y": 0,
-			"width": 240,
-			"height": 120
-		},
-		{
-			"id": "6d67cf0d04428c8e",
-			"type": "text",
-			"text": "with a line to this card",
-			"x": 320,
-			"y": 0,
-			"width": 240,
-			"height": 120
-		}
+	"nodes":[
+		{"id":"faa47f14dd9e7357","type":"text","text":"A small canvas","x":0,"y":0,"width":240,"height":120},
+		{"id":"6d67cf0d04428c8e","type":"text","text":"with a line to this card","x":320,"y":0,"width":240,"height":120}
 	],
-	"edges": [
-		{
-			"id": "efbfaa874707b9f0",
-			"fromNode": "faa47f14dd9e7357",
-			"fromSide": "right",
-			"toNode": "6d67cf0d04428c8e",
-			"toSide": "left"
-		}
+	"edges":[
+		{"id":"efbfaa874707b9f0","fromNode":"faa47f14dd9e7357","fromSide":"right","toNode":"6d67cf0d04428c8e","toSide":"left"}
 	]
 }
